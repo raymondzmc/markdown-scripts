@@ -1,6 +1,8 @@
-# Print Calendar
+All function are written in python3
 
-## Usage
+## Print Calendar
+
+### Usage
 
 ```sh
 $ python3 print_calender.py 2020 3
@@ -15,7 +17,7 @@ $ python3 print_calender.py 2020 3
 |[23](#3_23)|[24](#3_24)|[25](#3_25)|[26](#3_26)|[27](#3_27)|[28](#3_28)|[29](#3_29)|
 |[30](#3_30)|[31](#3_31)|[1](#4_1)|[2](#4_2)|[3](#4_3)|[4](#4_4)|[5](#4_5)|
 ```
-## Example
+### Example
 
 Paste this into any markdown file to render the calendar table, and use anchors (e.g. ```<a name="3_10"></a> March 10 Agenda```) to link the calendar day to the corresponding header.
 
