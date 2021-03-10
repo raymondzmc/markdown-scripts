@@ -17,7 +17,7 @@ $ python3 print_calender.py 2020 3
 ```
 ## Example
 
-Paste this into any markdown file to render the calendar table, and use anchors (e.g. ```<a name="3_10"></a> March 10 Agenda```) to link the calendar day to the corresponding section.
+Paste this into any markdown file to render the calendar table, and use anchors (e.g. ```<a name="3_10"></a> March 10 Agenda```) to link the calendar day to the corresponding header.
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -39,21 +39,6 @@ Paste this into any markdown file to render the calendar table, and use anchors 
 - [ ] Item 3
 
 #### <a name="3_7"></a> March 07 Agenda
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
-
-#### <a name="3_8"></a> March 08 Agenda
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
-
-#### <a name="3_9"></a> March 09 Agenda
-- [ ] Item 1
-- [ ] Item 2
-- [ ] Item 3
-
-#### <a name="3_10"></a> March 10 Agenda
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3
