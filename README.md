@@ -4,7 +4,7 @@ All function are written in python3
 
 ### Usage
 
-```bash
+```sh
 $ python3 print_calender.py 2020 3
 2020/3
 
