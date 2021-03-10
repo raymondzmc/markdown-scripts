@@ -1,4 +1,6 @@
-# Usage
+# Print Calendar
+
+## Usage
 
 ```sh
 $ python3 print_calender.py 2020 3
