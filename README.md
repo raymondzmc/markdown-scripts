@@ -15,8 +15,9 @@ $ python3 print_calender.py 2020 3
 |[23](#3_23)|[24](#3_24)|[25](#3_25)|[26](#3_26)|[27](#3_27)|[28](#3_28)|[29](#3_29)|
 |[30](#3_30)|[31](#3_31)|[1](#4_1)|[2](#4_2)|[3](#4_3)|[4](#4_4)|[5](#4_5)|
 ```
+## Example
 
-### Paste into any Markdown file
+Paste this into any markdown file to render the calendar table, and use anchors (e.g. ```<a name="3_10"></a> March 10 Agenda```) to link the calendar day to the corresponding section.
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -28,7 +29,31 @@ $ python3 print_calender.py 2020 3
 |[30](#3_30)|[31](#3_31)|[1](#4_1)|[2](#4_2)|[3](#4_3)|[4](#4_4)|[5](#4_5)|
 
 #### <a name="3_5"></a> March 05 Agenda
-- [ ] Have fun
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+#### <a name="3_6"></a> March 06 Agenda
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+#### <a name="3_7"></a> March 07 Agenda
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+#### <a name="3_8"></a> March 08 Agenda
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+#### <a name="3_9"></a> March 09 Agenda
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
 
 #### <a name="3_10"></a> March 10 Agenda
-- [ ] Work on things
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
