@@ -7,8 +7,7 @@ All function are written in python3
 ```bash
 $ python3 print_calender.py 2020 3
 2020/3
-```
-```
+
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[24](#2_24)|[25](#2_25)|[26](#2_26)|[27](#2_27)|[28](#2_28)|[29](#2_29)|[1](#3_1)|
